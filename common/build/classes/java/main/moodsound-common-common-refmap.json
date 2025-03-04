@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/macuguita/moodsound/mixin/SoundEngineMixin": {
+      "Lnet/minecraft/client/sound/SoundEngine$SourceSetImpl;<init>(I)V": "Lnet/minecraft/class_4225$class_4226;<init>(I)V",
+      "init": "Lnet/minecraft/class_4225;method_19661(Ljava/lang/String;Z)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/macuguita/moodsound/mixin/SoundEngineMixin": {
+        "Lnet/minecraft/client/sound/SoundEngine$SourceSetImpl;<init>(I)V": "Lnet/minecraft/class_4225$class_4226;<init>(I)V",
+        "init": "Lnet/minecraft/class_4225;method_19661(Ljava/lang/String;Z)V"
+      }
+    }
+  }
+}
